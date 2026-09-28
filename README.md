@@ -10,6 +10,7 @@ I ran the main experiments on [Kaggle](https://www.kaggle.com/code/kanaluvu/thes
 
 - [thesis.ipynb](thesis.ipynb) contains the implementation, experiment settings, and saved outputs.
 - [thesis.pdf](thesis.pdf) presents the mathematical background, stability analysis, and experimental findings.
+- [paper.pdf](paper.pdf) is the paper based on this work, published at **ICICPE 2026**.
 - [Implementation guide](docs/implementation.md) explains the code, solver behavior, and results.
 
 ## The main idea
@@ -68,5 +69,12 @@ See the [implementation guide](docs/implementation.md#understanding-the-results)
   type    = {Bachelor's thesis},
   year    = {2026},
   address = {Hanoi, Vietnam}
+}
+
+@conference{nguyen2026spectral,
+  author    = {Nguyen, Bich Van and Khong, Ngoc Anh},
+  title     = {Spectral Stability of Pseudoinverse-Based Extreme Learning Machine},
+  booktitle = {{ICICPE} 2026},
+  year      = {2026}
 }
 ```
